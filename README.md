@@ -1,2 +1,2 @@
 # demo-repository-for-learning-github
-created to know how giithub works
+Created to know how GitHub works & trying to figure out all the functionalities.
